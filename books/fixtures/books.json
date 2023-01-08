@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "d5d1dc4b-4d05-45f2-b86f-c0a5884e9976",
+        "fields": {
+            "title": "Python Cookbook",
+            "author": "Jones",
+            "price": "40.00",
+            "date_publication": "2001-09-10",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "2357fb65-6d57-434f-bfbc-38a087731e43",
+        "fields": {
+            "title": "django anlished",
+            "author": "the man",
+            "price": "98.00",
+            "date_publication": "2001-09-10",
+            "cover": "covers/DjangoUnleashed.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "6e2f12a0-f285-4a14-ab98-55e3a50b59fe",
+        "fields": {
+            "title": "Lightweight Django",
+            "author": "Mark Lavin",
+            "price": "50.00",
+            "date_publication": "1995-12-03",
+            "cover": "covers/Lightweight.jpg"
+        }
+    }
+]
